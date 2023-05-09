@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Mr",
+        "firstName": "Frank",
+        "lastName": "Murphy",
+        "email": "frank.murphy@rustvale.com",
+        "role": "User",
+        "id": 1,
+        "username": "test",
+        "password": "test",
+        "dateCreated": "2021-04-08T05:33:05.184Z",
+        "dateUpdated": "2023-05-04T12:37:41.388Z"
+    }
+]
